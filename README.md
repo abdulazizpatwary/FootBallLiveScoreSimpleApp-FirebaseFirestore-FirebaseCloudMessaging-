@@ -51,6 +51,11 @@ getToken
 onTokenRefresh
 ```
 ---
+##  Screenshot
+
+<p align="center">
+  <img src="images/live_score.png" width="300">
+</p>
 
 
 
@@ -66,5 +71,5 @@ onTokenRefresh
 
 ##  Author
 
-Abdul Aziz Patwary\
+Abdul Aziz Patwary
 Flutter Developer
