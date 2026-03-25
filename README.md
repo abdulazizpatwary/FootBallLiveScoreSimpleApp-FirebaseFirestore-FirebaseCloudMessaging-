@@ -66,5 +66,5 @@ onTokenRefresh
 
 ##  Author
 
-Abdul Aziz Patwary
+Abdul Aziz Patwary\
 Flutter Developer
