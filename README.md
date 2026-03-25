@@ -53,9 +53,9 @@ onTokenRefresh
 ---
 ##  Screenshot
 
-<p align="center">
-  <img src="images/live_score.png" width="300">
-</p>
+![App Screenshot](images/live_score.png)
+
+---
 
 
 
